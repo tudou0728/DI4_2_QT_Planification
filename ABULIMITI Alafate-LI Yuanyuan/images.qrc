@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>personnel.jpg</file>
+        <file>polytech.png</file>
+        <file>client.jpg</file>
+    </qresource>
+</RCC>
